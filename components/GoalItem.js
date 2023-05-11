@@ -17,14 +17,13 @@ const styles = StyleSheet.create({
     goalItems: {
         margin: 8,
         borderRadius: 6,
-        backgroundColor : '#5e0acc', 
+        backgroundColor : '#E9B949', 
       },
       pressedItem:{
         opacity:0.5,
-
       }, 
       goalText: {
-        color : 'white',
+        color: '#5e0acc',
         padding: 8,
     }
 });
